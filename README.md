@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to MustHave360*
 
 You can use the [editor on GitHub](https://github.com/musthave360/musthave360.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
